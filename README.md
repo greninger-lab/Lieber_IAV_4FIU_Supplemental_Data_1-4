@@ -7,7 +7,7 @@ Each supplemental data folder contains the following **sub-folders**, tagged wit
 3. **R-scripts**, which contains two scripts (one for parsing the "final" csv table from RAVA output, and one for creating a figure)
 4. **final_tables_by_lineage**, which contains the "final" csv tables from RAVA output that were used to generate the figures.
 
-The supplemental data folder also contains two Excel files: **Supplemental_Data_BioSamples_per_figure.xlsx.xlsx** and **Supplemental_Data_BioSamples_WT-controls.xlsx.**
+The supplemental data folder also contains two Excel files: **Supplemental_Data_BioSamples_per_figure.xlsx** and **Supplemental_Data_BioSamples_WT-controls.xlsx.**
 The excel files have the following columns:
 1. **BioSample Accession** (SAMNXXXXXXXX)
 2. **BioSample Name**
